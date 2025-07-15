@@ -23,9 +23,9 @@ from torchvision.transforms.functional import rgb_to_grayscale```. This should h
 Follow the steps given in the installation section [here](https://github.com/ageitgey/face_recognition) for your particular OS.
 
 ### Step 4: Running the project
-Run the ```app.py``` file to see the results
+Run the ```app.py``` file to see the results.
 
-Now you're probably good to go. I hope you find this useful. 
+I hope you find this useful. 
 
 ## Thanks
 1. I am indebted to the authors of the paper [GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/pdf/2101.04061) for their work that I have used here. I've used their pre-trained weights too.
