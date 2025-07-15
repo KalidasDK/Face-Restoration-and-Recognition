@@ -22,6 +22,9 @@ from torchvision.transforms.functional import rgb_to_grayscale```. This should h
 ### Step 3: Installing face_recognition
 Follow the steps given in the installation section [here](https://github.com/ageitgey/face_recognition) for your particular OS.
 
+### Step 4: Running the project
+Run the ```app.py``` file to see the results
+
 Now you're probably good to go. I hope you find this useful. 
 
 ## Thanks
